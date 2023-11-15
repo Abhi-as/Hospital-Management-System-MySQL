@@ -32,4 +32,4 @@ This project implements a Hospital Management System using MySQL, with a databas
 - **Schema**: [Image](Schema.png)
 
 
-**SQL Code**: ![SQL](Hospital.sql)
+**SQL Code**: [SQL](Hospital.sql)
