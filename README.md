@@ -29,4 +29,4 @@ This project implements a Hospital Management System using MySQL, with a databas
 
 - **Queries and Results**: Refer to the [PDF document](Hospital%20Queries.pdf) for details.
 
-- **Schema**: ![Image](Schema.png)
+- **Schema**: [Image](Schema.png)
